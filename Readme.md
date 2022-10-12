@@ -1,5 +1,8 @@
 # ADC Read, Display and PWM on ATMega16
 
+[![Microchip Studio](https://img.shields.io/badge/built%20with-Microchip%20Studio-orange)](https://www.microchip.com/en-us/tools-resources/develop/microchip-studio)
+[![ATMega16](https://img.shields.io/badge/built%20for-ATMega16-red)](https://www.microchip.com/en-us/product/ATmega16)
+
 This project is a part of a course "Microcontrollers Lab" of National Technical University of Athens. The grade of this project was 10/10. 
 
 ## Abstract
